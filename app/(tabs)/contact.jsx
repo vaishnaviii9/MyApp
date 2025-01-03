@@ -1,5 +1,7 @@
 import { View, Text, StyleSheet } from 'react-native'
 import React from 'react'
+import { ThemedText } from '@/components/ThemedText'
+import { ThemedView } from '@/components/ThemedView'
 
 const explore = () => {
   return (
